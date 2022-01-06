@@ -1,0 +1,7 @@
+C:\Users\thiag\Desktop\Exercícios C#\3 - PagamentoComissao\3 - PagamentoComissao\bin\Debug\3 - PagamentoComissao.exe.config
+C:\Users\thiag\Desktop\Exercícios C#\3 - PagamentoComissao\3 - PagamentoComissao\bin\Debug\3 - PagamentoComissao.exe
+C:\Users\thiag\Desktop\Exercícios C#\3 - PagamentoComissao\3 - PagamentoComissao\bin\Debug\3 - PagamentoComissao.pdb
+C:\Users\thiag\Desktop\Exercícios C#\3 - PagamentoComissao\3 - PagamentoComissao\obj\Debug\3 - PagamentoComissao.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Exercícios C#\3 - PagamentoComissao\3 - PagamentoComissao\obj\Debug\3 - PagamentoComissao.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Exercícios C#\3 - PagamentoComissao\3 - PagamentoComissao\obj\Debug\3 - PagamentoComissao.exe
+C:\Users\thiag\Desktop\Exercícios C#\3 - PagamentoComissao\3 - PagamentoComissao\obj\Debug\3 - PagamentoComissao.pdb

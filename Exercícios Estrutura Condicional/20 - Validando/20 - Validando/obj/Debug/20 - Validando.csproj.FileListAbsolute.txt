@@ -1,0 +1,7 @@
+C:\Users\thiag\Desktop\Exercícios C#\20 - Validando\20 - Validando\bin\Debug\20 - Validando.exe.config
+C:\Users\thiag\Desktop\Exercícios C#\20 - Validando\20 - Validando\bin\Debug\20 - Validando.exe
+C:\Users\thiag\Desktop\Exercícios C#\20 - Validando\20 - Validando\bin\Debug\20 - Validando.pdb
+C:\Users\thiag\Desktop\Exercícios C#\20 - Validando\20 - Validando\obj\Debug\20 - Validando.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Exercícios C#\20 - Validando\20 - Validando\obj\Debug\20 - Validando.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Exercícios C#\20 - Validando\20 - Validando\obj\Debug\20 - Validando.exe
+C:\Users\thiag\Desktop\Exercícios C#\20 - Validando\20 - Validando\obj\Debug\20 - Validando.pdb

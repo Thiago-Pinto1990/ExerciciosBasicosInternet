@@ -1,0 +1,7 @@
+C:\Users\thiag\Desktop\Exercícios C#\12 - ModuloNumeros\12 - ModuloNumeros\bin\Debug\12 - ModuloNumeros.exe.config
+C:\Users\thiag\Desktop\Exercícios C#\12 - ModuloNumeros\12 - ModuloNumeros\bin\Debug\12 - ModuloNumeros.exe
+C:\Users\thiag\Desktop\Exercícios C#\12 - ModuloNumeros\12 - ModuloNumeros\bin\Debug\12 - ModuloNumeros.pdb
+C:\Users\thiag\Desktop\Exercícios C#\12 - ModuloNumeros\12 - ModuloNumeros\obj\Debug\12 - ModuloNumeros.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Exercícios C#\12 - ModuloNumeros\12 - ModuloNumeros\obj\Debug\12 - ModuloNumeros.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Exercícios C#\12 - ModuloNumeros\12 - ModuloNumeros\obj\Debug\12 - ModuloNumeros.exe
+C:\Users\thiag\Desktop\Exercícios C#\12 - ModuloNumeros\12 - ModuloNumeros\obj\Debug\12 - ModuloNumeros.pdb

@@ -1,0 +1,7 @@
+C:\Users\thiag\Desktop\Exercícios C#\18 - VerificandoCodigo\18 - VerificandoCodigo\bin\Debug\18 - VerificandoCodigo.exe.config
+C:\Users\thiag\Desktop\Exercícios C#\18 - VerificandoCodigo\18 - VerificandoCodigo\bin\Debug\18 - VerificandoCodigo.exe
+C:\Users\thiag\Desktop\Exercícios C#\18 - VerificandoCodigo\18 - VerificandoCodigo\bin\Debug\18 - VerificandoCodigo.pdb
+C:\Users\thiag\Desktop\Exercícios C#\18 - VerificandoCodigo\18 - VerificandoCodigo\obj\Debug\18 - VerificandoCodigo.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Exercícios C#\18 - VerificandoCodigo\18 - VerificandoCodigo\obj\Debug\18 - VerificandoCodigo.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Exercícios C#\18 - VerificandoCodigo\18 - VerificandoCodigo\obj\Debug\18 - VerificandoCodigo.exe
+C:\Users\thiag\Desktop\Exercícios C#\18 - VerificandoCodigo\18 - VerificandoCodigo\obj\Debug\18 - VerificandoCodigo.pdb

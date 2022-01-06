@@ -1,0 +1,7 @@
+C:\Users\thiag\Desktop\Exercícios C#\4 - Soma2a2\4 - Soma2a2\bin\Debug\4 - Soma2a2.exe.config
+C:\Users\thiag\Desktop\Exercícios C#\4 - Soma2a2\4 - Soma2a2\bin\Debug\4 - Soma2a2.exe
+C:\Users\thiag\Desktop\Exercícios C#\4 - Soma2a2\4 - Soma2a2\bin\Debug\4 - Soma2a2.pdb
+C:\Users\thiag\Desktop\Exercícios C#\4 - Soma2a2\4 - Soma2a2\obj\Debug\4 - Soma2a2.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Exercícios C#\4 - Soma2a2\4 - Soma2a2\obj\Debug\4 - Soma2a2.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Exercícios C#\4 - Soma2a2\4 - Soma2a2\obj\Debug\4 - Soma2a2.exe
+C:\Users\thiag\Desktop\Exercícios C#\4 - Soma2a2\4 - Soma2a2\obj\Debug\4 - Soma2a2.pdb

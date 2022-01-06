@@ -1,0 +1,7 @@
+C:\Users\thiag\Desktop\Exercícios C#\ExercicioEstoqueMedio\ExercicioEstoqueMedio\bin\Debug\ExercicioEstoqueMedio.exe.config
+C:\Users\thiag\Desktop\Exercícios C#\ExercicioEstoqueMedio\ExercicioEstoqueMedio\bin\Debug\ExercicioEstoqueMedio.exe
+C:\Users\thiag\Desktop\Exercícios C#\ExercicioEstoqueMedio\ExercicioEstoqueMedio\bin\Debug\ExercicioEstoqueMedio.pdb
+C:\Users\thiag\Desktop\Exercícios C#\ExercicioEstoqueMedio\ExercicioEstoqueMedio\obj\Debug\ExercicioEstoqueMedio.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Exercícios C#\ExercicioEstoqueMedio\ExercicioEstoqueMedio\obj\Debug\ExercicioEstoqueMedio.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Exercícios C#\ExercicioEstoqueMedio\ExercicioEstoqueMedio\obj\Debug\ExercicioEstoqueMedio.exe
+C:\Users\thiag\Desktop\Exercícios C#\ExercicioEstoqueMedio\ExercicioEstoqueMedio\obj\Debug\ExercicioEstoqueMedio.pdb

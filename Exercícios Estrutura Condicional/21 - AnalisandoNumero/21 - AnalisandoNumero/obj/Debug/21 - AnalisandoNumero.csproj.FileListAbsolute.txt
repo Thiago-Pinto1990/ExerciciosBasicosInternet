@@ -1,0 +1,7 @@
+C:\Users\thiag\Desktop\Exercícios C#\21 - AnalisandoNumero\21 - AnalisandoNumero\bin\Debug\21 - AnalisandoNumero.exe.config
+C:\Users\thiag\Desktop\Exercícios C#\21 - AnalisandoNumero\21 - AnalisandoNumero\bin\Debug\21 - AnalisandoNumero.exe
+C:\Users\thiag\Desktop\Exercícios C#\21 - AnalisandoNumero\21 - AnalisandoNumero\bin\Debug\21 - AnalisandoNumero.pdb
+C:\Users\thiag\Desktop\Exercícios C#\21 - AnalisandoNumero\21 - AnalisandoNumero\obj\Debug\21 - AnalisandoNumero.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Exercícios C#\21 - AnalisandoNumero\21 - AnalisandoNumero\obj\Debug\21 - AnalisandoNumero.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Exercícios C#\21 - AnalisandoNumero\21 - AnalisandoNumero\obj\Debug\21 - AnalisandoNumero.exe
+C:\Users\thiag\Desktop\Exercícios C#\21 - AnalisandoNumero\21 - AnalisandoNumero\obj\Debug\21 - AnalisandoNumero.pdb

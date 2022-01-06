@@ -1,0 +1,7 @@
+C:\Users\thiag\Desktop\Exercícios C#\13 - OrdemDecrescente\13 - OrdemDecrescente\bin\Debug\13 - OrdemDecrescente.exe.config
+C:\Users\thiag\Desktop\Exercícios C#\13 - OrdemDecrescente\13 - OrdemDecrescente\bin\Debug\13 - OrdemDecrescente.exe
+C:\Users\thiag\Desktop\Exercícios C#\13 - OrdemDecrescente\13 - OrdemDecrescente\bin\Debug\13 - OrdemDecrescente.pdb
+C:\Users\thiag\Desktop\Exercícios C#\13 - OrdemDecrescente\13 - OrdemDecrescente\obj\Debug\13 - OrdemDecrescente.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Exercícios C#\13 - OrdemDecrescente\13 - OrdemDecrescente\obj\Debug\13 - OrdemDecrescente.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Exercícios C#\13 - OrdemDecrescente\13 - OrdemDecrescente\obj\Debug\13 - OrdemDecrescente.exe
+C:\Users\thiag\Desktop\Exercícios C#\13 - OrdemDecrescente\13 - OrdemDecrescente\obj\Debug\13 - OrdemDecrescente.pdb

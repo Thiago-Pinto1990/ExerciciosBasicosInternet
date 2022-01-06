@@ -1,0 +1,7 @@
+C:\Users\thiag\Desktop\Exercícios C#\5 - CustoDaViagem\5 - CustoDaViagem\bin\Debug\5 - CustoDaViagem.exe.config
+C:\Users\thiag\Desktop\Exercícios C#\5 - CustoDaViagem\5 - CustoDaViagem\bin\Debug\5 - CustoDaViagem.exe
+C:\Users\thiag\Desktop\Exercícios C#\5 - CustoDaViagem\5 - CustoDaViagem\bin\Debug\5 - CustoDaViagem.pdb
+C:\Users\thiag\Desktop\Exercícios C#\5 - CustoDaViagem\5 - CustoDaViagem\obj\Debug\5 - CustoDaViagem.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Exercícios C#\5 - CustoDaViagem\5 - CustoDaViagem\obj\Debug\5 - CustoDaViagem.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Exercícios C#\5 - CustoDaViagem\5 - CustoDaViagem\obj\Debug\5 - CustoDaViagem.exe
+C:\Users\thiag\Desktop\Exercícios C#\5 - CustoDaViagem\5 - CustoDaViagem\obj\Debug\5 - CustoDaViagem.pdb

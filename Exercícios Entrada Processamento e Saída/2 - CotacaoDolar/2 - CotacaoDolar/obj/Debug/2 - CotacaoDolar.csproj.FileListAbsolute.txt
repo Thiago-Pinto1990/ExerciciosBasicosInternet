@@ -1,0 +1,7 @@
+C:\Users\thiag\Desktop\Exercícios C#\2 - CotacaoDolar\2 - CotacaoDolar\bin\Debug\2 - CotacaoDolar.exe.config
+C:\Users\thiag\Desktop\Exercícios C#\2 - CotacaoDolar\2 - CotacaoDolar\bin\Debug\2 - CotacaoDolar.exe
+C:\Users\thiag\Desktop\Exercícios C#\2 - CotacaoDolar\2 - CotacaoDolar\bin\Debug\2 - CotacaoDolar.pdb
+C:\Users\thiag\Desktop\Exercícios C#\2 - CotacaoDolar\2 - CotacaoDolar\obj\Debug\2 - CotacaoDolar.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Exercícios C#\2 - CotacaoDolar\2 - CotacaoDolar\obj\Debug\2 - CotacaoDolar.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Exercícios C#\2 - CotacaoDolar\2 - CotacaoDolar\obj\Debug\2 - CotacaoDolar.exe
+C:\Users\thiag\Desktop\Exercícios C#\2 - CotacaoDolar\2 - CotacaoDolar\obj\Debug\2 - CotacaoDolar.pdb

@@ -1,0 +1,7 @@
+C:\Users\thiag\Desktop\Exercícios C#\15 - MediaAluno\15 - MediaAluno\bin\Debug\15 - MediaAluno.exe.config
+C:\Users\thiag\Desktop\Exercícios C#\15 - MediaAluno\15 - MediaAluno\bin\Debug\15 - MediaAluno.exe
+C:\Users\thiag\Desktop\Exercícios C#\15 - MediaAluno\15 - MediaAluno\bin\Debug\15 - MediaAluno.pdb
+C:\Users\thiag\Desktop\Exercícios C#\15 - MediaAluno\15 - MediaAluno\obj\Debug\15 - MediaAluno.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Exercícios C#\15 - MediaAluno\15 - MediaAluno\obj\Debug\15 - MediaAluno.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Exercícios C#\15 - MediaAluno\15 - MediaAluno\obj\Debug\15 - MediaAluno.exe
+C:\Users\thiag\Desktop\Exercícios C#\15 - MediaAluno\15 - MediaAluno\obj\Debug\15 - MediaAluno.pdb

@@ -1,0 +1,7 @@
+C:\Users\thiag\Desktop\Exercícios C#\9 - ConversorIdade\9 - ConversorIdade\bin\Debug\9 - ConversorIdade.exe.config
+C:\Users\thiag\Desktop\Exercícios C#\9 - ConversorIdade\9 - ConversorIdade\bin\Debug\9 - ConversorIdade.exe
+C:\Users\thiag\Desktop\Exercícios C#\9 - ConversorIdade\9 - ConversorIdade\bin\Debug\9 - ConversorIdade.pdb
+C:\Users\thiag\Desktop\Exercícios C#\9 - ConversorIdade\9 - ConversorIdade\obj\Debug\9 - ConversorIdade.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Exercícios C#\9 - ConversorIdade\9 - ConversorIdade\obj\Debug\9 - ConversorIdade.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Exercícios C#\9 - ConversorIdade\9 - ConversorIdade\obj\Debug\9 - ConversorIdade.exe
+C:\Users\thiag\Desktop\Exercícios C#\9 - ConversorIdade\9 - ConversorIdade\obj\Debug\9 - ConversorIdade.pdb
