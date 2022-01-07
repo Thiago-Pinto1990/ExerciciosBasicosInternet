@@ -1,0 +1,7 @@
+C:\Users\thiag\Desktop\Exercícios C#\32 - SomaQuadrados\32 - SomaQuadrados\bin\Debug\32 - SomaQuadrados.exe.config
+C:\Users\thiag\Desktop\Exercícios C#\32 - SomaQuadrados\32 - SomaQuadrados\bin\Debug\32 - SomaQuadrados.exe
+C:\Users\thiag\Desktop\Exercícios C#\32 - SomaQuadrados\32 - SomaQuadrados\bin\Debug\32 - SomaQuadrados.pdb
+C:\Users\thiag\Desktop\Exercícios C#\32 - SomaQuadrados\32 - SomaQuadrados\obj\Debug\32 - SomaQuadrados.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Exercícios C#\32 - SomaQuadrados\32 - SomaQuadrados\obj\Debug\32 - SomaQuadrados.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Exercícios C#\32 - SomaQuadrados\32 - SomaQuadrados\obj\Debug\32 - SomaQuadrados.exe
+C:\Users\thiag\Desktop\Exercícios C#\32 - SomaQuadrados\32 - SomaQuadrados\obj\Debug\32 - SomaQuadrados.pdb

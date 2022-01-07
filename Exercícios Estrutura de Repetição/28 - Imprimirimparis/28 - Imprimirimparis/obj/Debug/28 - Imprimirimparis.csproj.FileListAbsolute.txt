@@ -1,0 +1,7 @@
+C:\Users\thiag\Desktop\Exercícios C#\28 - Imprimirimparis\28 - Imprimirimparis\bin\Debug\28 - Imprimirimparis.exe.config
+C:\Users\thiag\Desktop\Exercícios C#\28 - Imprimirimparis\28 - Imprimirimparis\bin\Debug\28 - Imprimirimparis.exe
+C:\Users\thiag\Desktop\Exercícios C#\28 - Imprimirimparis\28 - Imprimirimparis\bin\Debug\28 - Imprimirimparis.pdb
+C:\Users\thiag\Desktop\Exercícios C#\28 - Imprimirimparis\28 - Imprimirimparis\obj\Debug\28 - Imprimirimparis.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Exercícios C#\28 - Imprimirimparis\28 - Imprimirimparis\obj\Debug\28 - Imprimirimparis.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Exercícios C#\28 - Imprimirimparis\28 - Imprimirimparis\obj\Debug\28 - Imprimirimparis.exe
+C:\Users\thiag\Desktop\Exercícios C#\28 - Imprimirimparis\28 - Imprimirimparis\obj\Debug\28 - Imprimirimparis.pdb

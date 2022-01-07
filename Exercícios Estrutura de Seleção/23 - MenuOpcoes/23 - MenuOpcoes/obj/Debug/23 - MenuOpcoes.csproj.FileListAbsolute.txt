@@ -1,0 +1,7 @@
+C:\Users\thiag\Desktop\Exercícios C#\23 - MenuOpcoes\23 - MenuOpcoes\bin\Debug\23 - MenuOpcoes.exe.config
+C:\Users\thiag\Desktop\Exercícios C#\23 - MenuOpcoes\23 - MenuOpcoes\bin\Debug\23 - MenuOpcoes.exe
+C:\Users\thiag\Desktop\Exercícios C#\23 - MenuOpcoes\23 - MenuOpcoes\bin\Debug\23 - MenuOpcoes.pdb
+C:\Users\thiag\Desktop\Exercícios C#\23 - MenuOpcoes\23 - MenuOpcoes\obj\Debug\23 - MenuOpcoes.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Exercícios C#\23 - MenuOpcoes\23 - MenuOpcoes\obj\Debug\23 - MenuOpcoes.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Exercícios C#\23 - MenuOpcoes\23 - MenuOpcoes\obj\Debug\23 - MenuOpcoes.exe
+C:\Users\thiag\Desktop\Exercícios C#\23 - MenuOpcoes\23 - MenuOpcoes\obj\Debug\23 - MenuOpcoes.pdb

@@ -1,0 +1,7 @@
+C:\Users\thiag\Desktop\Exercícios C#\31 - Somas\31 - Somas\bin\Debug\31 - Somas.exe.config
+C:\Users\thiag\Desktop\Exercícios C#\31 - Somas\31 - Somas\bin\Debug\31 - Somas.exe
+C:\Users\thiag\Desktop\Exercícios C#\31 - Somas\31 - Somas\bin\Debug\31 - Somas.pdb
+C:\Users\thiag\Desktop\Exercícios C#\31 - Somas\31 - Somas\obj\Debug\31 - Somas.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Exercícios C#\31 - Somas\31 - Somas\obj\Debug\31 - Somas.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Exercícios C#\31 - Somas\31 - Somas\obj\Debug\31 - Somas.exe
+C:\Users\thiag\Desktop\Exercícios C#\31 - Somas\31 - Somas\obj\Debug\31 - Somas.pdb

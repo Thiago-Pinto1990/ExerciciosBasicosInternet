@@ -1,0 +1,7 @@
+C:\Users\thiag\Desktop\Exercícios C#\26 - ImprimindoNumeros\26 - ImprimindoNumeros\bin\Debug\26 - ImprimindoNumeros.exe.config
+C:\Users\thiag\Desktop\Exercícios C#\26 - ImprimindoNumeros\26 - ImprimindoNumeros\bin\Debug\26 - ImprimindoNumeros.exe
+C:\Users\thiag\Desktop\Exercícios C#\26 - ImprimindoNumeros\26 - ImprimindoNumeros\bin\Debug\26 - ImprimindoNumeros.pdb
+C:\Users\thiag\Desktop\Exercícios C#\26 - ImprimindoNumeros\26 - ImprimindoNumeros\obj\Debug\26 - ImprimindoNumeros.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Exercícios C#\26 - ImprimindoNumeros\26 - ImprimindoNumeros\obj\Debug\26 - ImprimindoNumeros.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Exercícios C#\26 - ImprimindoNumeros\26 - ImprimindoNumeros\obj\Debug\26 - ImprimindoNumeros.exe
+C:\Users\thiag\Desktop\Exercícios C#\26 - ImprimindoNumeros\26 - ImprimindoNumeros\obj\Debug\26 - ImprimindoNumeros.pdb
