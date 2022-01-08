@@ -1,0 +1,7 @@
+C:\Users\thiag\Desktop\Exercícios C#\37 - Menu\37 - Menu\bin\Debug\37 - Menu.exe.config
+C:\Users\thiag\Desktop\Exercícios C#\37 - Menu\37 - Menu\bin\Debug\37 - Menu.exe
+C:\Users\thiag\Desktop\Exercícios C#\37 - Menu\37 - Menu\bin\Debug\37 - Menu.pdb
+C:\Users\thiag\Desktop\Exercícios C#\37 - Menu\37 - Menu\obj\Debug\37 - Menu.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Exercícios C#\37 - Menu\37 - Menu\obj\Debug\37 - Menu.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Exercícios C#\37 - Menu\37 - Menu\obj\Debug\37 - Menu.exe
+C:\Users\thiag\Desktop\Exercícios C#\37 - Menu\37 - Menu\obj\Debug\37 - Menu.pdb

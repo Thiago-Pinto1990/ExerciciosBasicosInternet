@@ -1,0 +1,7 @@
+C:\Users\thiag\Desktop\Exercícios C#\33 - ExibirMedias\33 - ExibirMedias\bin\Debug\33 - ExibirMedias.exe.config
+C:\Users\thiag\Desktop\Exercícios C#\33 - ExibirMedias\33 - ExibirMedias\bin\Debug\33 - ExibirMedias.exe
+C:\Users\thiag\Desktop\Exercícios C#\33 - ExibirMedias\33 - ExibirMedias\bin\Debug\33 - ExibirMedias.pdb
+C:\Users\thiag\Desktop\Exercícios C#\33 - ExibirMedias\33 - ExibirMedias\obj\Debug\33 - ExibirMedias.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Exercícios C#\33 - ExibirMedias\33 - ExibirMedias\obj\Debug\33 - ExibirMedias.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Exercícios C#\33 - ExibirMedias\33 - ExibirMedias\obj\Debug\33 - ExibirMedias.exe
+C:\Users\thiag\Desktop\Exercícios C#\33 - ExibirMedias\33 - ExibirMedias\obj\Debug\33 - ExibirMedias.pdb
