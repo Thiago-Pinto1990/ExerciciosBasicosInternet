@@ -1,0 +1,7 @@
+C:\Users\thiag\Desktop\Exercícios C#\38 - HorasTrabalhadas\38 - HorasTrabalhadas\bin\Debug\38 - HorasTrabalhadas.exe.config
+C:\Users\thiag\Desktop\Exercícios C#\38 - HorasTrabalhadas\38 - HorasTrabalhadas\bin\Debug\38 - HorasTrabalhadas.exe
+C:\Users\thiag\Desktop\Exercícios C#\38 - HorasTrabalhadas\38 - HorasTrabalhadas\bin\Debug\38 - HorasTrabalhadas.pdb
+C:\Users\thiag\Desktop\Exercícios C#\38 - HorasTrabalhadas\38 - HorasTrabalhadas\obj\Debug\38 - HorasTrabalhadas.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Exercícios C#\38 - HorasTrabalhadas\38 - HorasTrabalhadas\obj\Debug\38 - HorasTrabalhadas.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Exercícios C#\38 - HorasTrabalhadas\38 - HorasTrabalhadas\obj\Debug\38 - HorasTrabalhadas.exe
+C:\Users\thiag\Desktop\Exercícios C#\38 - HorasTrabalhadas\38 - HorasTrabalhadas\obj\Debug\38 - HorasTrabalhadas.pdb

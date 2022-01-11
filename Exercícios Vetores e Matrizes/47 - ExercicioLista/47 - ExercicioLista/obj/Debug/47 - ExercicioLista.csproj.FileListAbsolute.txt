@@ -1,0 +1,7 @@
+C:\Users\thiag\Desktop\Exercícios C#\47 - ExercicioLista\47 - ExercicioLista\bin\Debug\47 - ExercicioLista.exe.config
+C:\Users\thiag\Desktop\Exercícios C#\47 - ExercicioLista\47 - ExercicioLista\bin\Debug\47 - ExercicioLista.exe
+C:\Users\thiag\Desktop\Exercícios C#\47 - ExercicioLista\47 - ExercicioLista\bin\Debug\47 - ExercicioLista.pdb
+C:\Users\thiag\Desktop\Exercícios C#\47 - ExercicioLista\47 - ExercicioLista\obj\Debug\47 - ExercicioLista.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Exercícios C#\47 - ExercicioLista\47 - ExercicioLista\obj\Debug\47 - ExercicioLista.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Exercícios C#\47 - ExercicioLista\47 - ExercicioLista\obj\Debug\47 - ExercicioLista.exe
+C:\Users\thiag\Desktop\Exercícios C#\47 - ExercicioLista\47 - ExercicioLista\obj\Debug\47 - ExercicioLista.pdb
