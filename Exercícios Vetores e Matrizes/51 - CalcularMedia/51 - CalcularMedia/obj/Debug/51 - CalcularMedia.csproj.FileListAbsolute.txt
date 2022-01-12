@@ -1,0 +1,7 @@
+C:\Users\thiag\Desktop\Exercícios C#\51 - CalcularMedia\51 - CalcularMedia\bin\Debug\51 - CalcularMedia.exe.config
+C:\Users\thiag\Desktop\Exercícios C#\51 - CalcularMedia\51 - CalcularMedia\bin\Debug\51 - CalcularMedia.exe
+C:\Users\thiag\Desktop\Exercícios C#\51 - CalcularMedia\51 - CalcularMedia\bin\Debug\51 - CalcularMedia.pdb
+C:\Users\thiag\Desktop\Exercícios C#\51 - CalcularMedia\51 - CalcularMedia\obj\Debug\51 - CalcularMedia.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Exercícios C#\51 - CalcularMedia\51 - CalcularMedia\obj\Debug\51 - CalcularMedia.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Exercícios C#\51 - CalcularMedia\51 - CalcularMedia\obj\Debug\51 - CalcularMedia.exe
+C:\Users\thiag\Desktop\Exercícios C#\51 - CalcularMedia\51 - CalcularMedia\obj\Debug\51 - CalcularMedia.pdb
