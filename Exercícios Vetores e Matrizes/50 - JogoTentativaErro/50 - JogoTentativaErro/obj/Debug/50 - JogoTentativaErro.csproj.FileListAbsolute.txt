@@ -1,0 +1,7 @@
+C:\Users\thiag\Desktop\Exercícios C#\50 - JogoTentativaErro\50 - JogoTentativaErro\bin\Debug\50 - JogoTentativaErro.exe.config
+C:\Users\thiag\Desktop\Exercícios C#\50 - JogoTentativaErro\50 - JogoTentativaErro\bin\Debug\50 - JogoTentativaErro.exe
+C:\Users\thiag\Desktop\Exercícios C#\50 - JogoTentativaErro\50 - JogoTentativaErro\bin\Debug\50 - JogoTentativaErro.pdb
+C:\Users\thiag\Desktop\Exercícios C#\50 - JogoTentativaErro\50 - JogoTentativaErro\obj\Debug\50 - JogoTentativaErro.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Exercícios C#\50 - JogoTentativaErro\50 - JogoTentativaErro\obj\Debug\50 - JogoTentativaErro.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Exercícios C#\50 - JogoTentativaErro\50 - JogoTentativaErro\obj\Debug\50 - JogoTentativaErro.exe
+C:\Users\thiag\Desktop\Exercícios C#\50 - JogoTentativaErro\50 - JogoTentativaErro\obj\Debug\50 - JogoTentativaErro.pdb

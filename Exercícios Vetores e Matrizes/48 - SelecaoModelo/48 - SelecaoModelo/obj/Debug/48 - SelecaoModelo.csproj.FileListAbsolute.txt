@@ -1,0 +1,7 @@
+C:\Users\thiag\Desktop\Exercícios C#\48 - SelecaoModelo\48 - SelecaoModelo\bin\Debug\48 - SelecaoModelo.exe.config
+C:\Users\thiag\Desktop\Exercícios C#\48 - SelecaoModelo\48 - SelecaoModelo\bin\Debug\48 - SelecaoModelo.exe
+C:\Users\thiag\Desktop\Exercícios C#\48 - SelecaoModelo\48 - SelecaoModelo\bin\Debug\48 - SelecaoModelo.pdb
+C:\Users\thiag\Desktop\Exercícios C#\48 - SelecaoModelo\48 - SelecaoModelo\obj\Debug\48 - SelecaoModelo.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Exercícios C#\48 - SelecaoModelo\48 - SelecaoModelo\obj\Debug\48 - SelecaoModelo.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Exercícios C#\48 - SelecaoModelo\48 - SelecaoModelo\obj\Debug\48 - SelecaoModelo.exe
+C:\Users\thiag\Desktop\Exercícios C#\48 - SelecaoModelo\48 - SelecaoModelo\obj\Debug\48 - SelecaoModelo.pdb
